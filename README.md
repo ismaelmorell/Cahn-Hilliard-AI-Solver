@@ -26,4 +26,4 @@ This project tackles the challenging scientific inverse problem of estimating Ca
 
 For a complete walkthrough of the code and process, please see the primary notebook:
 
-*   **[`Master_Project_Notebook.ipynb`](./Master_Project_Notebook.ipynb)**: Contains the full end-to-end workflow, including data generation, preprocessing, model definition, training, and evaluation.
+*   **[`Main_Project_Notebook.ipynb`](./Main_Project_Notebook.ipynb)**: Contains the full end-to-end workflow, including data generation, preprocessing, model definition, training, and evaluation.
